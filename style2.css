@@ -1,11 +1,5 @@
-p{
-	font-size: 20px;
-	background-color: rgb(161, 155, 143);
-	height: 600px;
-	width: 500px;
-	overflow-y: scroll;;
-}
 
-.ld{
+
+body{
 	background-color: rgb(230, 223, 207);
 }
