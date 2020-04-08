@@ -1,18 +1,44 @@
 body {
 	font-family: calibri;
 	opacity: 90%;
-
-}
-
-.link{
-	color: black;
-	background-color: cyan;
-	opacity: 0.9;
-	padding: 10px 10px;
-}
-
-body{
 	background-image: url("https://vignette.wikia.nocookie.net/pennyspoetry/images/7/7c/Highwayman.jpg/revision/latest/scale-to-width-down/340?cb=20130212041423");
 
 }
+
+.box{
+	background-color: rgb(107, 227, 207);
+	height: 300px;
+	width: 300px;
+	    margin: 10px 10px 60px 100px;
+	    margin-top: -400px;
+	font-size: 40px;
+	font-family: calibri;
+	color: rgb(169, 45, 214);
+	padding: 30px 30px;
+border-radius: 15px;
+
+overflow-y: scroll;
+
+}
+
+.main{
+	color: black;
+text-align: center;
+background-color: cyan ;
+padding: 80px 30px;
+border-radius: 10px;
+font-size: 50px;
+opacity: 80%
+}
+
+#highway{
+	margin-left: 1000px;
+	height: 400px;
+}
+
+
+
+
+
+
 
