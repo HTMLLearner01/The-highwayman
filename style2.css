@@ -1,5 +1,9 @@
 p{
 	font-size: 20px;
+	background-color: rgb(161, 155, 143);
+	height: 600px;
+	width: 500px;
+	overflow-y: scroll;;
 }
 
 body{
